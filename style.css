@@ -1,0 +1,22 @@
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a
+{
+    background-color: white;
+    width: 200px;
+    border-radius: 20px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.back_button
+{
+    float: left;
+    width: 100px;
+}
